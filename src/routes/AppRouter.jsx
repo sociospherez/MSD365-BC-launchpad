@@ -1,0 +1,1 @@
+<Route path="/bc-launchpad" element={<BCLaunchPadPage />} />
